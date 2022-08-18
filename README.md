@@ -8,7 +8,7 @@
 ...
 - 💞️ I’m looking to collaborate on :
 ... humm, where do I start:
-... I like the idea of expanding the 6502 and 65816 to a 64 bit multiprocessor (x8), and the Atari computer with 4000i video.
+... I like the idea of expanding the 6502 and 65816 to a 64 bit multiprocessor (x8), and the Atari computer with 8k video.
 --- 
 - 📫 How to reach me :
 ... jacklmartin@gmail.com
